@@ -6,7 +6,7 @@ date: 2021-01-24
 BAIN ist durch, alle Vorlesungen angesehen und in Text verarbeitet. Nun bleibt die Frage, wo hat der Kurs mich hingeführt?
 
 ## Was ich gelernt habe und was nicht
-Im Folgenden in ungeordneter Weise, was ich aus dem Kurs alles mitgenommen habe (ja, auch nicht gelerntes kommt mit, irgendwie zumindest).
+**Im Folgenden in ungeordneter Weise, was ich aus dem Kurs alles mitgenommen habe** (ja, auch nicht gelerntes kommt mit, irgendwie zumindest).
 
 - Die Grundlagen was verschiedene Systeme und Vorgänge in der Bibliotheks- und Archivinformatik betreffen sind mir nun klarer. Ich kann mir etwas darunter vorstellen. Diese Systeme anzuwenden wäre für mich persönlich noch ein grosser weiterer Schritt – kann es mir aber vorstellen, dies zu lernen, wenn ich mich richtig intensiv mit einem dieser Systeme auseinandersetzen würde. Vorallem aber kann ich nun verstehen und nachvollziehen, wie das im Grundsatz von technischer Seite aus gesehen funktioniert. Das ist wertvoll und fördert das Verständnis für das grosse Ganze.
 
@@ -34,7 +34,7 @@ Im Folgenden in ungeordneter Weise, was ich aus dem Kurs alles mitgenommen habe 
 
 - Besonders spannend fand ich Linked-Data und zu verstehen wie sich das neue Prinzip vom althergebrachten unterscheidet. Das und die damit zusammenhängenden Standards möchte ich mir noch vertiefter ansehen.
 
-Was mich selbst betrifft, nun, da hatte ich mehr von mir erwartet. Besonders, da ich doch mit ziemlicher Motivation gestartet bin und gerne schreibe und diese Art des Leistungsnachweises und auch der Aufbau des Moduls eigentlich genauso gehalten war, wie es meinem Lerntyp entspricht. 
+**Was mich selbst betrifft,** nun, da hatte ich mehr von mir erwartet. Besonders, da ich doch mit ziemlicher Motivation gestartet bin und gerne schreibe und diese Art des Leistungsnachweises und auch der Aufbau des Moduls eigentlich genauso gehalten war, wie es meinem Lerntyp entspricht. 
 
 Leider ist es ganz anders gekommen. Mir lief alles aus dem Ruder und ich war froh, konnte ich in den anderen Modulen, welche unerbittlich weitergingen und kein Nachlassen in der Leistung erlaubten, einigermassen mithalten und alles fristgerecht abgeben. BAIN war das einzige Modul, welches mir einen Freiraum, den ich zwingend brauchte, ermöglichte. Vielen Dank an der Stelle an die Dozenten für das Verständnis. Ich weiss nicht, ob ich ohne diesen Freiraum, auch einmal einfach etwas Zeit für mich zu haben zum Nachdenken, dieses Semester so gut überstanden hätte, wie ich es nun habe.
 
