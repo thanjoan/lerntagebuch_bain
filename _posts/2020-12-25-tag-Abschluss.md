@@ -18,7 +18,7 @@ BAIN ist durch, alle Vorlesungen angesehen und in Text verarbeitet. Nun bleibt d
 
 - Abstraktes hat mehr Konturen bekommen. Begriffe wie beispielsweise Schnittstellen und Metadaten kann ich nun einordnen. Ich kann mir unter einem Datentransfer etwas vorstellen, weiss nun besser worauf dabei zu achten ist und was dabei auch schief gehen kann, sodass Datensätze z.B. nicht importiert werden können, wenn Felder in einem System nicht ausgefüllt sind, das andere System aber genau dies erwartet.
 
-- Bibliotheks- und Archivinformatik tut weniger weh als es klingt.
+- BAIN tut weniger weh als es klingt.
 
 - Dank des Lerntagebuches habe ich wirklich das Gefühl nun einen guten Überblick zu haben und den behandelten Stoff auch verarbeitet zu haben. Ich fasse an dieser Stelle nun nicht den Stoff zusammen, möchte aber symbolisch das Schaubild nennen: In der ersten Stunde sah ich mir dieses an und fühlte mich völlig verloren. Nun in der (vor-)letzten Stunde, als ich das Schaubild wieder ansah, verstand ich den Zusammenhang, weiss was wir warum gemacht haben, welche Datenformate und Standards zu welchen Systemen gehören und wie die Daten in andere Systeme gebracht werden können. Eine OAI-PMH-Schnittstelle ist kein bedrohlicher Buchstabensalat mehr.
 
